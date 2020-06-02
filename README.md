@@ -1,6 +1,8 @@
 # self.py - Hangman game
 https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/
 
+* [Game code](https://github.com/boaz209/self.py-course-/blob/master/Tree_man_game.py)
+* [Exercise code] (https://github.com/boaz209/self.py-course-/blob/master/Self_py.py)
 
 ### פלט הצלחה לדוגמה
 
