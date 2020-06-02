@@ -1,5 +1,5 @@
 # self.py - Hangman game
-[https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/]
+https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/
 
 
 ### פלט הצלחה לדוגמה
